@@ -1,6 +1,4 @@
 #include <iostream>
 using namespace std;
 
-int main (){
-    cout << "Hello eagle, I love ther!" << endl;
-}
+int main (){ cout << "Hello eagle, I love ther!" << endl; }
